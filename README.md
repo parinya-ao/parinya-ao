@@ -26,6 +26,10 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 # 📰 My Recent Activity
 <!-- BLOG-POST-LIST:START -->
 
+* <a href="https://github.com/parinya-ao/gemini-sound/compare/f79ca602cb...8a5baca5f1" target="_blank">parinya-ao pushed to main in parinya-ao/gemini-sound</a> - Tue Aug 19 2025 1:09 PM
+
+
+
 * <a href="https://github.com/" target="_blank">parinya-ao deleted branch master at parinya-ao/gemini-sound</a> - Tue Aug 19 2025 1:08 PM
 
 
@@ -39,10 +43,6 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 
 
 * <a href="https://github.com/parinya-ao/gemini-sound/pull/1" target="_blank">parinya-ao opened a pull request in parinya-ao/gemini-sound</a> - Tue Aug 19 2025 1:08 PM
-
-
-
-* <a href="https://github.com/parinya-ao/gemini-sound/compare/master" target="_blank">parinya-ao created a branch master in parinya-ao/gemini-sound</a> - Tue Aug 19 2025 1:07 PM
 
 <!-- BLOG-POST-LIST:END -->
 
