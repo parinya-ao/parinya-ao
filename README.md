@@ -22,8 +22,8 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 ![](https://github-profile-trophy.vercel.app/?username=parinya-ao&theme=swift&no-frame=false&no-bg=false&margin-w=4)
 
 # 📰 My Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=parinya-ao&icon=0&color=0)](https://visitcount.itsvg.in)
