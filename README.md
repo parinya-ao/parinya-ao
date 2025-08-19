@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome+to+My+gtihub+repo!&fontSize=32&animation=fadeIn)
+
 # 💫 About Me:
 Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Engineering student passionate about solving complex problems through technology and innovation.  <br>I’m actively learning and eager to contribute to meaningful projects that challenge me to grow and create impactful solutions.<br><br>I believe in doing my duty with dedication and excellence — "Do your duty and let things happen." This mindset drives me to focus on quality and persistence in every task I undertake.<br>
 ## 📫 Contact
@@ -5,7 +7,12 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 
 
 # 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="100" height="100"/>
+  <img src="https://skillicons.dev/icons?i=rust" width="100" height="100"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="100" height="100"/>
+</div>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=parinya-ao&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=parinya-ao&theme=swift&hide_border=false)<br/>
@@ -14,7 +21,9 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parinya-ao&theme=swift&no-frame=false&no-bg=false&margin-w=4)
 
+# 📰 My Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 [![](https://visitcount.itsvg.in/api?id=parinya-ao&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
