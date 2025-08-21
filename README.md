@@ -21,6 +21,10 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 # 📰 My Recent Activity
 <!-- BLOG-POST-LIST:START -->
 
+* <a href="https://github.com/parinya-ao/setup_server//" target="_blank">parinya-ao created a repository parinya-ao/setup_server</a> - Thu Aug 21 2025 11:50 AM
+
+
+
 * <a href="https://github.com/" target="_blank">parinya-ao deleted branch chore/docker-file-fix at parinya-ao/tutorium-backend</a> - Thu Aug 21 2025 6:17 AM
 
 
@@ -34,10 +38,6 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 
 
 * <a href="https://github.com/a2n2k3p4/tutorium-backend/compare/108b51e0d5...e776585f51" target="_blank">parinya-ao pushed to bugfix/github-workflows-cd in a2n2k3p4/tutorium-backend</a> - Thu Aug 21 2025 4:05 AM
-
-
-
-* <a href="https://github.com/a2n2k3p4/tutorium-backend/compare/65918e27a1...108b51e0d5" target="_blank">parinya-ao pushed to bugfix/github-workflows-cd in a2n2k3p4/tutorium-backend</a> - Thu Aug 21 2025 4:01 AM
 
 <!-- BLOG-POST-LIST:END -->
 
