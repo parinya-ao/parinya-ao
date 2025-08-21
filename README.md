@@ -21,6 +21,10 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 # 📰 My Recent Activity
 <!-- BLOG-POST-LIST:START -->
 
+* <a href="https://github.com/parinya-ao/parinya-ao/compare/b55fab4377...a43df3107c" target="_blank">parinya-ao pushed to main in parinya-ao/parinya-ao</a> - Thu Aug 21 2025 2:58 AM
+
+
+
 * <a href="https://github.com/" target="_blank">parinya-ao deleted branch chore/github-workflow-deploy at parinya-ao/tutorium-backend</a> - Thu Aug 21 2025 2:40 AM
 
 
@@ -34,10 +38,6 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 
 
 * <a href="https://github.com/parinya-ao/tutorium-backend/compare/6d8f0e19e1...19c3d28a08" target="_blank">parinya-ao pushed to chore/github-workflow-deploy in parinya-ao/tutorium-backend</a> - Thu Aug 21 2025 2:17 AM
-
-
-
-* <a href="https://github.com/a2n2k3p4/tutorium-backend/pull/23" target="_blank">parinya-ao opened a pull request in a2n2k3p4/tutorium-backend</a> - Thu Aug 21 2025 2:17 AM
 
 <!-- BLOG-POST-LIST:END -->
 
