@@ -21,6 +21,10 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 # 📰 My Recent Activity
 <!-- BLOG-POST-LIST:START -->
 
+* <a href="https://github.com/parinya-ao/parinya-ao/compare/e81143164b...2dd372e13b" target="_blank">parinya-ao pushed to main in parinya-ao/parinya-ao</a> - Fri Aug 22 2025 12:54 PM
+
+
+
 * <a href="https://github.com/" target="_blank">parinya-ao deleted branch chore/format-docs at parinya-ao/tutorium-backend</a> - Thu Aug 21 2025 2:29 PM
 
 
@@ -34,10 +38,6 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 
 
 * <a href="https://github.com/a2n2k3p4/tutorium-backend/pull/28" target="_blank">parinya-ao opened a pull request in a2n2k3p4/tutorium-backend</a> - Thu Aug 21 2025 2:05 PM
-
-
-
-* <a href="https://github.com/parinya-ao/tutorium-backend/compare/chore/format-docs" target="_blank">parinya-ao created a branch chore/format-docs in parinya-ao/tutorium-backend</a> - Thu Aug 21 2025 2:04 PM
 
 <!-- BLOG-POST-LIST:END -->
 
