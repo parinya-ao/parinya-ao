@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Parinya-Aobun&fontSize=32&animation=fadeIn)
 
+![Visitor Map](https://komarev.com/ghpvc/?username=parinya-ao&color=green&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true)
+
 # 💫 About Me:
 Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Engineering student passionate about solving complex problems through technology and innovation.  <br>I’m actively learning and eager to contribute to meaningful projects that challenge me to grow and create impactful solutions.<br><br>I believe in doing my duty with dedication and excellence — "Do your duty and let things happen." This mindset drives me to focus on quality and persistence in every task I undertake.<br>
 ## 📫 Contact
@@ -15,8 +17,6 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
   <img src="https://skillicons.dev/icons?i=ts" width="100" height="100"/>
 </div>
 
-### 🌍 Visitor Map
-![Visitor Map](https://api.visitorbadge.io/api/VisitorHit?user=parinya-ao&repo=parinya-ao&countColor=%237B1E7A)
 
 # 📰 My Recent Activity
 <!-- BLOG-POST-LIST:START -->
