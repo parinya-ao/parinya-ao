@@ -21,6 +21,10 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 # 📰 My Recent Activity
 <!-- BLOG-POST-LIST:START -->
 
+* <a href="https://github.com/parinya-ao/tutorium-frontend/compare/4f602cbc45...cb77f86de0" target="_blank">parinya-ao pushed to main in parinya-ao/tutorium-frontend</a> - Fri Aug 22 2025 3:06 PM
+
+
+
 * <a href="https://github.com/parinya-ao/tutorium-frontend/compare/12aabd0541...4f602cbc45" target="_blank">parinya-ao pushed to main in parinya-ao/tutorium-frontend</a> - Fri Aug 22 2025 1:34 PM
 
 
@@ -34,10 +38,6 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 
 
 * <a href="https://github.com/parinya-ao/tutorium-backend/compare/5d6aa0089a...9729b28f32" target="_blank">parinya-ao pushed to main in parinya-ao/tutorium-backend</a> - Thu Aug 21 2025 2:08 PM
-
-
-
-* <a href="https://github.com/parinya-ao/tutorium-backend/compare/373bab943e...94b9cba54b" target="_blank">parinya-ao pushed to chore/format-docs in parinya-ao/tutorium-backend</a> - Thu Aug 21 2025 2:06 PM
 
 <!-- BLOG-POST-LIST:END -->
 
