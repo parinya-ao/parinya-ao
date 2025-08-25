@@ -21,6 +21,14 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 # 📰 My Recent Activity
 <!-- BLOG-POST-LIST:START -->
 
+* <a href="https://github.com/parinya-ao/tutorium-backend/compare/34f42be5b2...44e1fb4263" target="_blank">parinya-ao pushed tutorium-backend</a> - Mon Aug 25 2025 4:07 AM
+
+
+
+* <a href="https://github.com/parinya-ao/tutorium-frontend/compare/cb77f86de0...bf67bbf9ac" target="_blank">parinya-ao pushed tutorium-frontend</a> - Mon Aug 25 2025 4:06 AM
+
+
+
 * <a href="/proginosko/LeechBlockNG" target="_blank">parinya-ao starred proginosko/LeechBlockNG</a> - Sun Aug 24 2025 1:55 PM
 
 
@@ -30,14 +38,6 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 
 
 * <a href="https://github.com/parinya-ao/gemini-sound/compare/0000000000...b8bb7d6943" target="_blank">parinya-ao created a branch</a> - Sun Aug 24 2025 6:26 AM
-
-
-
-* <a href="/pop-os/cosmic-epoch" target="_blank">parinya-ao starred pop-os/cosmic-epoch</a> - Fri Aug 22 2025 4:07 PM
-
-
-
-* <a href="https://github.com/parinya-ao/tutorium-frontend/compare/4f602cbc45...cb77f86de0" target="_blank">parinya-ao pushed tutorium-frontend</a> - Fri Aug 22 2025 3:06 PM
 
 <!-- BLOG-POST-LIST:END -->
 
