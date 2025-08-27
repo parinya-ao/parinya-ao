@@ -21,6 +21,10 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 # 📰 My Recent Activity
 <!-- BLOG-POST-LIST:START -->
 
+* <a href="/ahmeterturkmennn/-Discrete-Time-Signal-Processing-2nd-Edition-" target="_blank">parinya-ao starred ahmeterturkmennn/-Discrete-Time-Signal-Processing-2nd-Edition-</a> - Wed Aug 27 2025 3:09 PM
+
+
+
 * <a href="/Software-eng-01204341/Backend" target="_blank">parinya-ao starred Software-eng-01204341/Backend</a> - Mon Aug 25 2025 2:00 PM
 
 
@@ -34,10 +38,6 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 
 
 * <a href="/proginosko/LeechBlockNG" target="_blank">parinya-ao starred proginosko/LeechBlockNG</a> - Sun Aug 24 2025 1:55 PM
-
-
-
-* <a href="https://github.com/parinya-ao/gemini-sound/compare/b8bb7d6943...23f69c9339" target="_blank">parinya-ao pushed gemini-sound</a> - Sun Aug 24 2025 6:40 AM
 
 <!-- BLOG-POST-LIST:END -->
 
