@@ -21,6 +21,10 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 # 📰 My Recent Activity
 <!-- BLOG-POST-LIST:START -->
 
+* <a href="https://github.com/parinya-ao/deeplearning-exercise/compare/dbd9c034ab...4c59a7a1c2" target="_blank">parinya-ao pushed deeplearning-exercise</a> - Thu Aug 28 2025 4:47 AM
+
+
+
 * <a href="/parinya-ao/digital-signal-processing-book" target="_blank">parinya-ao forked parinya-ao/digital-signal-processing-book from ahmeterturkmennn/-Discrete-Time-Signal-Processing-2nd-Edition-</a> - Thu Aug 28 2025 1:28 AM
 
 
@@ -34,10 +38,6 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 
 
 * <a href="https://github.com/parinya-ao/tutorium-backend/compare/34f42be5b2...44e1fb4263" target="_blank">parinya-ao pushed tutorium-backend</a> - Mon Aug 25 2025 4:07 AM
-
-
-
-* <a href="https://github.com/parinya-ao/tutorium-frontend/compare/cb77f86de0...bf67bbf9ac" target="_blank">parinya-ao pushed tutorium-frontend</a> - Mon Aug 25 2025 4:06 AM
 
 <!-- BLOG-POST-LIST:END -->
 
