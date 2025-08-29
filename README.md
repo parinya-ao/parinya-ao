@@ -21,6 +21,14 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 # 📰 My Recent Activity
 <!-- BLOG-POST-LIST:START -->
 
+* <a href="https://github.com/a2n2k3p4/tutorium-backend/pull/37" target="_blank">parinya-ao opened a pull request in tutorium-backend</a> - Fri Aug 29 2025 2:06 AM
+
+
+
+* <a href="https://github.com/parinya-ao/tutorium-backend/compare/0000000000...e760c498b7" target="_blank">parinya-ao created a branch</a> - Fri Aug 29 2025 2:01 AM
+
+
+
 * <a href="https://github.com/parinya-ao/deeplearning-exercise/compare/dbd9c034ab...4c59a7a1c2" target="_blank">parinya-ao pushed deeplearning-exercise</a> - Thu Aug 28 2025 4:47 AM
 
 
@@ -30,14 +38,6 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 
 
 * <a href="/ahmeterturkmennn/-Discrete-Time-Signal-Processing-2nd-Edition-" target="_blank">parinya-ao starred ahmeterturkmennn/-Discrete-Time-Signal-Processing-2nd-Edition-</a> - Wed Aug 27 2025 3:09 PM
-
-
-
-* <a href="/Software-eng-01204341/Backend" target="_blank">parinya-ao starred Software-eng-01204341/Backend</a> - Mon Aug 25 2025 2:00 PM
-
-
-
-* <a href="https://github.com/parinya-ao/tutorium-backend/compare/34f42be5b2...44e1fb4263" target="_blank">parinya-ao pushed tutorium-backend</a> - Mon Aug 25 2025 4:07 AM
 
 <!-- BLOG-POST-LIST:END -->
 
