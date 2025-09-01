@@ -21,6 +21,14 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 # 📰 My Recent Activity
 <!-- BLOG-POST-LIST:START -->
 
+* <a href="https://github.com/a2n2k3p4/tutorium-backend/issues/50" target="_blank">parinya-ao opened an issue in tutorium-backend</a> - Mon Sep 01 2025 9:47 AM
+
+
+
+* <a href="https://github.com/a2n2k3p4/tutorium-backend/issues/50" target="_blank">parinya-ao assigned an issue in tutorium-backend</a> - Mon Sep 01 2025 9:47 AM
+
+
+
 * <a href="https://github.com/parinya-ao/tutorium-backend/compare/44e1fb4263...2b934728db" target="_blank">parinya-ao pushed tutorium-backend</a> - Mon Sep 01 2025 9:27 AM
 
 
@@ -30,14 +38,6 @@ Hi, I’m flim (Parinya Aobaun)<br><br>I’m currently a third-year Computer Eng
 
 
 * <a href="https://github.com/parinya-ao/tutorium-backend/compare/44e1fb4263...9ad0bdca2d" target="_blank">parinya-ao pushed tutorium-backend</a> - Fri Aug 29 2025 9:24 AM
-
-
-
-* <a href="https://github.com/parinya-ao/tutorium-backend/compare/c534de54e2...44e1fb4263" target="_blank">parinya-ao pushed tutorium-backend</a> - Fri Aug 29 2025 9:15 AM
-
-
-
-* <a href="https://github.com/a2n2k3p4/tutorium-backend/pull/37" target="_blank">parinya-ao closed a pull request in tutorium-backend</a> - Fri Aug 29 2025 9:08 AM
 
 <!-- BLOG-POST-LIST:END -->
 
