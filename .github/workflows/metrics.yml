@@ -1,9 +1,6 @@
 name: Parinya Metrics Suite
 
 on:
-  push:
-    branches:
-      - "main"
   schedule:
     - cron: '0 0 * * *'  # ทุกวันเวลาเที่ยงคืน UTC
   workflow_dispatch:
@@ -19,7 +16,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.leetcode.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN}}
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_user: parinya-ao
@@ -31,7 +28,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.followup.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN}}
           base: ""
           plugin_followup: yes
           plugin_followup_sections: repositories, user
