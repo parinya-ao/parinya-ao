@@ -14,8 +14,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
@@ -23,9 +21,4 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN}}
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_user: parinya_ao
           plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_limit_recent: 5
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_theme: dark
-          plugin_leetcode_border: 0
