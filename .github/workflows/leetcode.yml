@@ -14,6 +14,7 @@ on:
 jobs:
   leetcode:
     runs-on: ubuntu-latest
+    environment: METRICS_TOKEN
     permissions:
       contents: write
 
