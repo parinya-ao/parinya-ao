@@ -1,15 +1,12 @@
 name: activity
 
 on:
-  push:
-    branches:
-      - "main"
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
-  update-readme:
+  update-activity:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -23,7 +20,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.leetcode.svg
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN}}
           base: ""
           plugin_leetcode: yes
           plugin_leetcode_user: parinya_ao
