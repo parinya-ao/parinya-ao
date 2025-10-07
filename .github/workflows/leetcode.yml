@@ -1,6 +1,9 @@
 name: activity
 
 on:
+  push:
+    branches:
+      - "main"
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
@@ -14,18 +17,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-
       - name: LeetCode
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.leetcode.svg
-          token: ${{ secrets.METRICS_TOKEN}}
+          token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_user: parinya_ao
           plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_limit_recent: 5
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_theme: dark
-          plugin_leetcode_border: 0
