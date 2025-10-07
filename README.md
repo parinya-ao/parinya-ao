@@ -39,6 +39,38 @@
 
 ---
 
+## 🗳️ LeetCode Stats
+<p align="center">
+  <img src="https://github.com/parinya-ao/parinya-ao/blob/main/metrics.leetcode.svg" alt="LeetCode Stats" />
+</p>
+
+---
+
+## 🎟️ GitHub Activity Overview
+<p align="center">
+  <img src="https://github.com/parinya-ao/parinya-ao/blob/main/metrics.followup.svg" alt="GitHub Follow-up" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github.com/parinya-ao/parinya-ao/blob/main/metrics.stats.svg" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/parinya-ao/parinya-ao/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/parinya-ao/parinya-ao/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/parinya-ao/parinya-ao/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 📰 Recent Activity
 <details open>
   <summary><b>Live feed</b></summary>
