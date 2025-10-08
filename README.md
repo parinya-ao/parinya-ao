@@ -41,7 +41,7 @@
 
 ## 🗳️ LeetCode Stats
 <p align="center">
-  <img src="https://github.com/parinya-ao/parinya-ao/blob/main/metrics.plugin.activity.svg" alt="LeetCode Stats" />
+  <img src="https://github.com/parinya-ao/parinya-ao/blob/main/metrics.plugin.leetcode.svg" alt="LeetCode Stats" />
 </p>
 
 ---
