@@ -44,13 +44,6 @@
   <img src="https://github.com/parinya-ao/parinya-ao/blob/main/metrics.plugin.leetcode.svg" alt="LeetCode Stats" />
 </p>
 
----
-
-## 🎟️ GitHub Activity Overview
-<p align="center">
-  <img src="https://github.com/parinya-ao/parinya-ao/blob/main/metrics.plugin.activity.svg" alt="GitHub Follow-up" />
-</p>
-
 <!-- Footer wave -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:24243e,50:302b63,100:0f0c29&section=footer" />
