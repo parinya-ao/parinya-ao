@@ -30,7 +30,7 @@
 
 ## ⚙️ Tech Stack (keep it tight)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust" width="88" height="88" alt="Rust"/>
+  <img src="https://skillicons.dev/icons?i=python" width="88" height="88" alt="PY"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" width="88" height="88" alt="TypeScript"/>
   &nbsp;&nbsp;&nbsp;
