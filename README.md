@@ -34,7 +34,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" width="88" height="88" alt="TypeScript"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=go" width="88" height="88" alt="Go"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="88" height="88" alt="Bash"/>
 </p>
 
 ---
